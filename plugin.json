@@ -1,0 +1,1 @@
+{"name": "travel-finder", "description": "Finds the cheapest flight destinations available to depart today or tomorrow from a given home airport, filtering for budget-friendly options. Returns exactly 3 US domestic destinations and 1 worldwide international destination."}
